@@ -12,10 +12,10 @@ I focus on **Backend Development and Mobile Applications**, creating secure APIs
 
 I enjoy working on:
 
-* 🔹 **API development & backend architecture**
-* 🔹 **Authentication systems (JWT, cookies, sessions)**
-* 🔹 **Mobile app development with Flutter**
-* 🔹 **Database design and system integration**
+🔹 **API development & backend architecture**
+🔹 **Authentication systems (JWT, cookies, sessions)**
+🔹 **Mobile app development with Flutter**
+🔹 **Database design and system integration**
 
 I like turning ideas into real applications and building **developer-friendly APIs with clear documentation using Postman**.
 
