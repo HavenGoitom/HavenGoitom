@@ -1,6 +1,6 @@
 # Hi 👋, I'm Haven Goitom
 
-💻 Backend & Mobile Developer | Software Engineering Student | Tech Explorer from Ethiopia 🇪🇹
+💻 Full stack Developer | Software Engineering Student | Tech Explorer from Ethiopia 🇪🇹
 
 ---
 
@@ -8,7 +8,7 @@
 
 I'm a **Software Engineering student at Addis Ababa Science and Technology University (AASTU)** who enjoys building practical software systems.
 
-I focus on **Backend Development and Mobile Applications**, creating secure APIs and scalable systems using **Django, DRF, Node.js, and Express**, while also building mobile apps with **Flutter**.
+I focus on **Backend Development mostly**, creating secure APIs and scalable systems using **Django, DRF, Node.js, and Express**, while also building mobile apps with **Flutter**.
 
 I enjoy working on:
 
